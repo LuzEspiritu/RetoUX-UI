@@ -1,3 +1,4 @@
+
 ## Reto UX/UI-Youtube
 
 Explicar qué partes conforman el UX y qué partes el UI
@@ -16,8 +17,13 @@ Explicar qué partes conforman el UX y qué partes el UI
 
 2. **UI**
 1.1.- La tipografía y el tamaño de letra.
-1.2.- Los colores de las letras(negro y rojo);
+
+1.2.- Los colores de las letras(negro y rojo).
+
 1.3.-El color de los botones(rojo).
+
 1.4.- El diseño de los menú.
+
 1.5.-El diseño de los botones.
+
 1.6.- El color y diseño de los íconos.
